@@ -31,7 +31,6 @@ Search by ID = "createAccountSubmit"
 """Conditions of use link
 Search by href="/gp/help/customer/display.html/ref=ap_desktop_footer_cou?ie=UTF8&amp;nodeId=508088"
 
-   
 
 """
 """ Privacy Notice link
